@@ -13,7 +13,6 @@ async-lru==2.0.4
 attrs==23.2.0
 Babel==2.15.0
 beautifulsoup4==4.12.3
--e git+ssh://git@github.com/aVariengien/bird-eye-view.git@4377c4694ce44dea377fa93442e39de809f1d4a2#egg=birds_eye_view
 bleach==6.1.0
 blinker==1.8.2
 boilerpy3==1.0.7
