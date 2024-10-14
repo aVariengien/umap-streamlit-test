@@ -41,8 +41,6 @@ dnspython==2.6.1
 einops==0.7.0
 email_validator==2.2.0
 executing==2.0.1
-fastapi==0.111.1
-fastapi-cli==0.0.4
 fastjsonschema==2.19.1
 filelock==3.14.0
 fonttools==4.53.1
